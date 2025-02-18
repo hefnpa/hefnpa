@@ -1,7 +1,6 @@
 - 👋 Hi, Ich bin Patrick
 - 👀 Ich bin scheinbar am Programmieren interessiert.
       Danaben aber auch an: 🏋️ 🏎️ 🏍️ 
-- 🌱 Momentan im Masterstudium
 - 📫 Kontaktiert mich gern per Teams 👋
 
 <!---
